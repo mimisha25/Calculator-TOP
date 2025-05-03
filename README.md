@@ -3,7 +3,7 @@
 ## Overview 📖
 With online calculator you can manage all your basic math questions without needing to open mobile phone calculator or computer built in calculator. \
 Design of calculator is the clone of iPhone mobile phone calculator built by [Apple](https://apple.com/).\
-The project is developed fully in Vanilla JS, Advanced HTML and Responsive CSS\
+The project is developed fully in Vanilla JS, Advanced HTML and Responsive CSS
 
 
 ## Technologies 💻
